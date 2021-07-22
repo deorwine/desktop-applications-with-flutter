@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "ba7cc67eb064165bfaf51641a891f92f"
+build_time: [1626945283, 684921000]
+inputs:
+  "/Users/deorwine6/Desktop/first_desktop/macos/Runner/MainFlutterWindow.swift": [1611603814, 0]
+  "/Users/deorwine6/Desktop/first_desktop/macos/Runner/AppDelegate.swift": [1611603814, 0]
+  "/Users/deorwine6/Desktop/first_desktop/macos/Flutter/GeneratedPluginRegistrant.swift": [1626945266, 868454973]
