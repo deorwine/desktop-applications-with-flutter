@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
-options: "78ff2aa2daf7e60288352f9c1c601374"
-build_time: [1626945276, 846597000]
-inputs:
-  "/Users/deorwine6/development/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus_macos-2.0.2/macos/Classes/SharePlusMacosPlugin.swift": [1621177929, 0]
