@@ -2,16 +2,6 @@
 
 Desktop application using Flutter.
 
-## Windows application Screenshots
-  Form Filling Page                 |   Saved Data Page        |  Edit Data Page 
-:-------------------------:|:-------------------------:|:-------------------------:|
-![](https://user-images.githubusercontent.com/75465325/126742412-f87866fe-4ded-4291-a762-7ff2d9a88eac.png)|![](https://user-images.githubusercontent.com/75465325/126742446-ed54bece-a943-4150-8de5-3b53733705f3.png)|![](https://user-images.githubusercontent.com/75465325/126742461-a9dbf924-48fe-49fd-a307-730a83b9f896.png)|
-
-## macOS application Screenshots
-  Form Filling Page                 |   Saved Data Page        |  Edit Data Page 
-:-------------------------:|:-------------------------:|:-------------------------:|
-![](https://user-images.githubusercontent.com/75465325/126618681-f6b4aaf0-4161-44f2-a1f2-6d5ba237beb4.png)|![](https://user-images.githubusercontent.com/75465325/126618600-8c86f9fa-5eb4-4327-b29c-72e821489373.png)|![](https://user-images.githubusercontent.com/75465325/126618505-de81313f-feef-49b1-a3a2-b12a91b29275.png)|
-
 ## Perform the following commands to run this project
 
 flutter config --enable-windows-desktop
@@ -20,11 +10,31 @@ flutter config --enable-macos-desktop
 
 flutter config --enable-linux-desktop
 
+
+
+## Windows application Screenshots
+  Form Filling Page                 |   Saved Data Page        |  Edit Data Page 
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://user-images.githubusercontent.com/75465325/126742412-f87866fe-4ded-4291-a762-7ff2d9a88eac.png)|![](https://user-images.githubusercontent.com/75465325/126742446-ed54bece-a943-4150-8de5-3b53733705f3.png)|![](https://user-images.githubusercontent.com/75465325/126742461-a9dbf924-48fe-49fd-a307-730a83b9f896.png)|
+
 ## Additional Windows requirements
 
 For Windows desktop development, you need the following in addition to the Flutter SDK:
 
   Visual Studio 2019 (not to be confused with Visual Studio Code). For Win32 you need the “Desktop development with C++” workload installed, including all of its     default components. For UWP you need the “Universal Windows Platform development” workload installed, with the optional UWP C++ tools.
+
+
+enable developer mode on windows follow these steps
+
+Settings -> Update & Security -> for developers -> turn on developer mode
+
+
+
+## macOS application Screenshots
+  Form Filling Page                 |   Saved Data Page        |  Edit Data Page 
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://user-images.githubusercontent.com/75465325/126618681-f6b4aaf0-4161-44f2-a1f2-6d5ba237beb4.png)|![](https://user-images.githubusercontent.com/75465325/126618600-8c86f9fa-5eb4-4327-b29c-72e821489373.png)|![](https://user-images.githubusercontent.com/75465325/126618505-de81313f-feef-49b1-a3a2-b12a91b29275.png)|
+
 
 
 ## Additional macOS requirements
